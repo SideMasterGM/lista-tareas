@@ -1,0 +1,13 @@
+Una pequeña colaboración!.
+-----------------------------------------------
+Nombre de la DB: mydb
+Nombre de la tabla: task
+Cantidad de atributos: 2
+Atributos: id, task
+
+Atributo 1: id int unsigned auto_increment primary key
+Atributo 2: task varchar(255) not null
+
+Te dejo el mydb.sql, con phpmyadmin perfectamente lo puedes importar.
+
+Firma: Side Master
